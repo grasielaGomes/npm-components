@@ -1,5 +1,5 @@
 # Test Components repo
-Test npm package.
+Test npm package and storybook.
 
 ## Install and Run
 
