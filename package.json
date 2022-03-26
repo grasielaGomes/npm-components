@@ -7,7 +7,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/homefile-dev/storybook-chakra.git"
+    "url": "https://github.com/grasielaGomes/npm-components.git"
   },
   "peerDependencies": {
     "@chakra-ui/react": ">=1",
